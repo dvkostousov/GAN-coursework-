@@ -1,0 +1,11 @@
+GAN_batch_size = 128
+CNN_batch_size = 32
+GAN_lr = 0.0002
+CNN_lr = 0.0001
+beta1 = 0.5
+beta_2 = 0.999
+GAN_num_epochs = 100
+CNN_num_epochs = 100
+GAN_z_dim = 100
+start_epoch_to_save = 290
+num_of_images = 1000

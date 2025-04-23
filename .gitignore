@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+.idea/
+venv/
+.env
+celeba/img_align_celeba/*
+celeba/img_align_celeba.zip
